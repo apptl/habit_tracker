@@ -1,0 +1,2 @@
+{"Date": "2025-11-18", "Gym": false, "water": 1.0, "study": true, "green P&L": false, "Pickleball": false}
+{"Date": "2025-11-18", "Gym": true, "water": 1.0, "study": true, "green P&L": true, "Pickleball": true}
